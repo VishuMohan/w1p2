@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+}
+.header{
+    display: flex;
+    height: 56px;
+      width: 100%;
+      background-size: cover;
+      background-position: center;
+      background-color: #eb1c23;
+      
+      
+}
+.britlogo{
+    width: 20%;
+    background-color:  #5bc4f1;
+}
+.logo{
+    
+    font-size: 38px;
+    position: absolute;
+    right: 1082px;
+    top: -35px;
+    
+}
+.headericons{
+    display: flex;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    
+
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: 14px;   
+}
+.slider{
+    margin-top: 0px;
+    background-size: cover;
+    background-image: url(images/seeds_Desktop.jpg);
+    height: 700px;
+    width: 100%;
+}
+.slidingimage{
+    width: 100%;
+}
+.videos{
+   
+    background-color: #fff;
+    width: 270px;
+    height: 415px;
+    left: 0px;
+    top: 53px;
+    display: flex;
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-top: 30px;
+    justify-content: space-between;
+
+}
+.utubevideos{
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: #00993f;
+    height: 405px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.footermenu{
+    float: left;
+    color: #fff;
+}
+.class1{
+    font-size: 13px;
+    color: #fff;
+    margin-top: 25px;
+    
+}
+.class2{
+    font-size: 11px;
+    color: #b8da8a;
+    margin-top: 30px;
+}
+.table1{
+    justify-content: center;
+    cursor: pointer;
+    
+    
+    
+}
+.table2{
+    color: #b8da8a;
+    font-size: 5px;
+   
+}
+.table3{
+    color: #b8da8a;
+    
+    
+}
+.table4{
+    color: #b8da8a;
+    
+}
+.table5{
+    color: #b8da8a;
+    
+    
+}
+table2:hover{
+    color: white;
+    
+}
+
+i{
+    size: 150px;
+    color: #fff;
+    align-items: center;
+}
+.socialmediaicons{
+    float: right;
+    padding-left: 35px;
+    padding-top: 3px;
+    padding-bottom: 20px;
+}
+.copyright{
+    color: #fff;
+    font-size: 11px;
+    float: left;
+    padding-top: 130px;
+    
+}
